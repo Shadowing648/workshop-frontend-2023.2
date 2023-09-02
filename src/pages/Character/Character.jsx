@@ -56,11 +56,11 @@ function Char() {
         <div className={styles.card} key={character.id}>
           <div>
             <h2 className={styles.name}>{character.name}</h2>
-            <p className={styles.status}>Massa: {character.mass}</p>
-            <p className={styles.species}>Cor do cabelo: {character.hair_color}</p>
-            <p className={styles.type}>Cor da pele: {character.skin_color}</p>
-            <p className={styles.gender}>Cor dos olhos: {character.eye_color}</p>
-            <p className={styles.gender}>Aniversário: {character.birth_year}</p>
+            <p className={styles.mass}>Massa: {character.mass}</p>
+            <p className={styles.hair_color}>Cor do cabelo: {character.hair_color}</p>
+            <p className={styles.skin_color}>Cor da pele: {character.skin_color}</p>
+            <p className={styles.eye_color}>Cor dos olhos: {character.eye_color}</p>
+            <p className={styles.birth_year}>Aniversário: {character.birth_year}</p>
             <p className={styles.gender}>Gênero: {character.gender}</p>
           </div>
           
