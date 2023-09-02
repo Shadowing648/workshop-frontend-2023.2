@@ -41,7 +41,7 @@ function Char() {
 
   return (
     <div>
-      <h1>Galeria de personagens</h1>
+      <h1>Galeria</h1>
       <Link to="/"><button className={styles.button}>Voltar para tela principal</button></Link>
       <div>
         <input
