@@ -14,7 +14,7 @@ Os personagens são obtidos de uma API pública do Star Wars (SWAPI).
 Os usuários podem pesquisar personagens por nome.
 Cada personagem é exibido em um card com informações sobre seu nome, massa, cor do cabelo, cor da pele, cor dos olhos, aniversário e gênero.
 Um botão "Voltar para tela principal" permite aos usuários retornar à página inicial.
-Como Executar a Aplicação
+# Como Executar a Aplicação
 Para executar a aplicação em seu ambiente local, siga estas etapas:
 
 Certifique-se de ter o Node.js instalado em seu computador.
