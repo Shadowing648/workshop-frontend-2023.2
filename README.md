@@ -33,8 +33,11 @@ A aplicação será executada no seu navegador padrão.
 
 # Tecnologias Utilizadas
 React: A biblioteca JavaScript para construção de interfaces de usuário.
+
 React Router: Utilizado para gerenciar a navegação entre as páginas.
+
 Axios: Uma biblioteca para fazer requisições HTTP para a API do SWAPI.
+
 CSS: Para estilização dos componentes.
 # Autor
 Este projeto foi criado por Luiz Montenegro.
