@@ -29,12 +29,12 @@ npm install
 Após a conclusão da instalação das dependências, inicie a aplicação com o seguinte comando:
 
 npm start
-A aplicação será executada no seu navegador padrão. Você pode acessá-la em http://localhost:3000/.
+A aplicação será executada no seu navegador padrão.
 
 # Tecnologias Utilizadas
 React: A biblioteca JavaScript para construção de interfaces de usuário.
 React Router: Utilizado para gerenciar a navegação entre as páginas.
 Axios: Uma biblioteca para fazer requisições HTTP para a API do SWAPI.
 CSS: Para estilização dos componentes.
-Autor
+# Autor
 Este projeto foi criado por Luiz Montenegro.
